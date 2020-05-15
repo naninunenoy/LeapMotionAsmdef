@@ -1,0 +1,17 @@
+{
+    "name": "LeapMotion.Core.Editor",
+    "references": [
+        "GUID:afe9169c10c01db4ea48ba7b3d06d693"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
