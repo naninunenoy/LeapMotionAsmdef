@@ -1,8 +1,8 @@
 {
     "name": "LeapMotion.Core.Scripts.DataStructures.Editor",
     "references": [
-        "GUID:afe9169c10c01db4ea48ba7b3d06d693",
-        "GUID:e98efac166acca2489abeb0a280c92fb"
+        "LeapMotion.Core",
+        "LeapMotion.Core.Editor"
     ],
     "includePlatforms": [
         "Editor"
